@@ -1,7 +1,7 @@
 {
     "annotationProcessor": {
         "org.springframework.boot:spring-boot-configuration-processor": {
-            "locked": "2.7.12"
+            "locked": "3.0.12"
         }
     },
     "annotationsProcessorCodegen": {
@@ -121,10 +121,10 @@
             "locked": "1.6.15"
         },
         "org.springframework.boot:spring-boot-starter": {
-            "locked": "2.7.12"
+            "locked": "3.0.12"
         },
         "org.springframework.boot:spring-boot-starter-validation": {
-            "locked": "2.7.12"
+            "locked": "3.0.12"
         }
     },
     "runtimeClasspath": {
@@ -224,13 +224,13 @@
             "locked": "5.8.2"
         },
         "org.springframework.boot:spring-boot-starter-log4j2": {
-            "locked": "2.7.12"
+            "locked": "3.0.12"
         },
         "org.springframework.boot:spring-boot-starter-test": {
-            "locked": "2.7.12"
+            "locked": "3.0.12"
         },
         "org.springframework.boot:spring-boot-starter-validation": {
-            "locked": "2.7.12"
+            "locked": "3.0.12"
         }
     },
     "testRuntimeClasspath": {
@@ -292,13 +292,13 @@
             "locked": "5.8.2"
         },
         "org.springframework.boot:spring-boot-starter-log4j2": {
-            "locked": "2.7.12"
+            "locked": "3.0.12"
         },
         "org.springframework.boot:spring-boot-starter-test": {
-            "locked": "2.7.12"
+            "locked": "3.0.12"
         },
         "org.springframework.boot:spring-boot-starter-validation": {
-            "locked": "2.7.12"
+            "locked": "3.0.12"
         }
     }
 }
