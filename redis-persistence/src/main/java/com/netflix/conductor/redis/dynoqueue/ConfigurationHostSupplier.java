@@ -40,10 +40,10 @@ public class ConfigurationHostSupplier implements HostSupplier {
     }
 
     private List<Host> parseHostsFromConfig() {
-        String hosts = properties.getHosts();
+        String hosts = "r1:6379:us-east-1c";//properties.getHosts();
         if (hosts == null) {
             String message =
-                    "Missing dynomite/redis hosts. Ensure 'conductor.redis.hosts' has been set in the supplied configuration.";
+                    "Missing dynomite/redis hosts. Ensure 'conductor.redis.hosts' has been set in the supplied configuration!!!.";
             log.error(message);
             throw new RuntimeException(message);
         }
